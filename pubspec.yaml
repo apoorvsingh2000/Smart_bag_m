@@ -1,0 +1,30 @@
+name: smart_bag_m
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  easy_sidemenu: ^0.4.1
+  firebase_core: ^2.4.0
+  google_fonts:
+  cloud_firestore: ^4.3.1
+  intl:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
