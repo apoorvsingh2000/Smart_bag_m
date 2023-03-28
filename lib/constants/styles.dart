@@ -12,4 +12,4 @@ EdgeInsets kListMargin(context) => EdgeInsets.only(
       right: screenWidth(context) * 0.05,
     );
 
-TextStyle kHeadingTextStyle(context) => TextStyle(fontSize: screenWidth(context)*0.01, fontWeight: FontWeight.bold);
+TextStyle kHeadingTextStyle(context) => TextStyle(fontSize: screenWidth(context)*0.02, fontWeight: FontWeight.bold);
